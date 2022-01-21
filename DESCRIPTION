@@ -1,0 +1,7 @@
+Imports:
+  dplyr,
+  jsonlite,
+  rvest,
+  httr,
+  here,
+  data.table
